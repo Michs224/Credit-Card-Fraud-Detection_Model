@@ -1,1 +1,2 @@
-# Michs224-Credit-Card-Fraud-Detection_Model
+# Credit-Card-Fraud-Detection_Model
+In this project, I developed a machine learning model to detect credit card fraud using various algorithms such as Logistic Regression, Decision Tree, Random Forest, and XGBoost. The dataset was highly imbalanced, so I applied several resampling techniques to balance the data, including SMOTE (Synthetic Minority Over-sampling Technique), ADASYN (Adaptive Synthetic Sampling), CNN (Condensed Nearest Neighbors), etc. By comparing the performance of different algorithms and sampling techniques, I aimed to build an effective fraud detection system capable of accurately identifying fraudulent transactions.
